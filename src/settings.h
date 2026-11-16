@@ -1,0 +1,2 @@
+#define OLD_MAP_PRINT 0
+#define MAX_ORG_SIZE 256
